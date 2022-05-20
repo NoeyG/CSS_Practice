@@ -1,0 +1,13 @@
+div {color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+.test {background-color: blue;
+        color:white;
+    font-size: 18px;} 
+
+.button{color: white;
+    background-color: orange;
+    font-size: 18px;}
