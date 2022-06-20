@@ -1,21 +1,28 @@
-div {color: white;
-    background-color: red;
-    font-size: 32px;
-    font-weight: bold;
-    
-}
-.test {background-color: blue;
-        color:white;
-    font-size: 18px;} 
-
-.numbers {background-color: lightpink; font-family: verdana, "DejaVu Sans", sans serif;
-}
-.numbers oddly-cool{ font-size: 24px;}
-
-.button{color: white;
-    background-color: orange;
-    font-size: 18px;}
-
-#even {background-color: white; color: blue; font-size: 36PX;}
-#third{font-size: 24px; }
-#other{background-color: green;}
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .one {
+    background: pink;
+    border: 3px solid blue;
+    /* CHANGE ME */
+    padding: 32px;
+    margin: 12px;
+  }
+  
+  .two {
+    background: lightblue;
+    border: 3px solid purple;
+    /* CHANGE ME */
+    margin-bottom: 48px;
+  }
+  
+  .three {
+    background: peachpuff;
+    border: 3px solid brown;
+    width: 200px;
+    /* CHANGE ME */
+    padding: 32px;
+    margin-left: auto;
+  }
